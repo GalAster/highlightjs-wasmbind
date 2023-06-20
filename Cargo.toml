@@ -2,7 +2,7 @@
 members = ["projects/*"]
 default-members = [
     "projects/awsl-vm",
-    "projects/awsl-pest",
+    "projects/awsl-parser",
     "projects/awsl-ast",
     "projects/indent-formatter",
 ]

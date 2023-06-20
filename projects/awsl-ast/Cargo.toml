@@ -20,7 +20,7 @@ serde_repr = "0.1.9"
 
 [dependencies.awsl-pest]
 version = "0.1.*"
-path = "../awsl-pest"
+path = "../awsl-parser"
 
 [dependencies.awsl-error]
 version = "0.1.*"

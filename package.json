@@ -2,7 +2,7 @@
     "name": "notedown-workspace",
     "private": true,
     "scripts": {
-        "pest": "cd projects/awsl-pest && wee pest -t",
+        "pest": "cd projects/awsl-parser && wee pest -t",
         "build": "cargo build --release",
         "test": "cargo test --release",
         "fmt": "cargo fmt --all",
