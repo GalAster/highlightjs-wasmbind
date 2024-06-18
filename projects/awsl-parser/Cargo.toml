@@ -1,5 +1,5 @@
 [package]
-name = "awsl-pest"
+name = "awsl-parser"
 version = "0.1.0"
 authors = ["Aster <192607617@qq.com>"]
 description = "AWSL Web Structure Language"
